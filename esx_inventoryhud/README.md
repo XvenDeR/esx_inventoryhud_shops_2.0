@@ -40,13 +40,13 @@ git clone https://github.com/Nertigel/esx_inventoryhud [esx]/esx_inventoryhud
 - Put it in the `[esx]` directory
 
 ## Installation
-Check [wiki file](https://github.com/Nertigel/esx_inventoryhud/blob/master/WIKI.md)
-Import SQL file provided.
+- Check [wiki file](https://github.com/Nertigel/esx_inventoryhud/blob/master/WIKI.md)
+- Import SQL file provided.
 
 ## Config files
 * config.lua
 * html/js/config.js
 
 ## Dependencies
-disc-base
-disc-ammo
+* disc-base
+* disc-ammo
