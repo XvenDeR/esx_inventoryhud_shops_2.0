@@ -41,7 +41,12 @@ git clone https://github.com/Nertigel/esx_inventoryhud [esx]/esx_inventoryhud
 
 ## Installation
 Check [wiki file](https://github.com/Nertigel/esx_inventoryhud/blob/master/WIKI.md)
+Import SQL file provided.
 
 ## Config files
 * config.lua
 * html/js/config.js
+
+## Dependencies
+disc-base
+disc-ammo
