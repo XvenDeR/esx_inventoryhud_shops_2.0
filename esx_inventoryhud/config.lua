@@ -145,11 +145,20 @@ Config.Shops = {
             {name = "WEAPON_PUMPSHOTGUN", ammo = 25}
         },
         Ammo = {
-            {name = "9mm_rounds", weaponhash = "WEAPON_PISTOL", ammo = 24},
-            {name = "shotgun_shells", weaponhash = "WEAPON_PUMPSHOTGUN", ammo = 12}
+            -- {name = "9mm_rounds", weaponhash = "WEAPON_PISTOL", ammo = 24},
+            -- {name = "shotgun_shells", weaponhash = "WEAPON_PUMPSHOTGUN", ammo = 12}
         },
         Items = {
-
+            {name = 'disc_ammo_pistol'},
+            {name = 'disc_ammo_pistol_large'},
+            {name = 'disc_ammo_rifle'},
+            {name = 'disc_ammo_rifle_large'},
+            {name = 'disc_ammo_shotgun'},
+            {name = 'disc_ammo_shotgun_large'},
+            {name = 'disc_ammo_smg'},
+            {name = 'disc_ammo_smg_large'},
+            {name = 'disc_ammo_snp'},
+            {name = 'disc_ammo_snp_large'}
         }
     },
 }
